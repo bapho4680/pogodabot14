@@ -1,2 +1,4 @@
 pyowm
 telebot
+python-3
+bot
